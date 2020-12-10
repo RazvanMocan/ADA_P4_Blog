@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to team KLR's P4 Milestone!
 
 You can use the [editor on GitHub](https://github.com/KamranSattary/ADA_P4_Blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
