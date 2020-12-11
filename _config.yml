@@ -1,4 +1,3 @@
 remote_theme: thelehhman/texture
 
-baseurl: "/"
-url: "https://kamransattary.github.io/ADA_P4_Blog"
+baseurl: "/ADA_P4_Blog"
