@@ -1,3 +1,8 @@
+<head>
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+...
+</head>`
+
 ## Welcome to team KLR's P4 Milestone!
 
 You can use the [editor on GitHub](https://github.com/KamranSattary/ADA_P4_Blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
